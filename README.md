@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @31VISHNU
-- 👀 I’m interested in Sports Analysis, Data Science, Machine Learning
+- 👀 I’m interested in Data Science, Machine Learning, Artificial Intelligence, IOT and Networking
 - 🌱 I’m currently learning B. Tech Artificial Intelligence and Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vishnushankar.jawaharlal@gmail.com
